@@ -12,7 +12,7 @@ while True:
         #Logic tambahan :
         if temp > 30 :
             print("suhu terasa panas")
-        elif temp < 30 and temp > 18 :
+        elif temp <= 30 and temp >= 24 :
             print("suhu terasa sejuk")
         else :
             print("suhu terasa dingin")
