@@ -4,4 +4,3 @@ Menggunakan sebuah sensor ***selain sensor ultrasonic HC-SR04***, buatlah hal-ha
 2. Script sensor.py dan sebuah fungsi untuk mengambil data dari sensor tersebut (script didalam file sensor.py)
 3. Sebuah script utama [main.py](http://main.py) yang terdiri dari sebuah logic sederhana yang menjawab sebuah use case sederhana ( jelaskan use case tersebut dalam MD files! )(script didalam file main.py)<br><br>
     (Menjelaskan tentang use case apabila suhu diatas 30 derajat celcius, maka akan menampilkan suhu terasa panas, apabila suhu diantara 24 hingga 30 derajat maka akan menampilkan suhu terasa sejuk, dan apabila suhu dibawah 24 derajat celcius maka akan menampilkan suhu terasa dingin)<br><br>
-4. (Optional) Ambil sekitar 5 - 10 sample data dan tampilkan dalam sebuah grafik matplotlib dan screenshot hasil tersebut dan upload pada MD files.
